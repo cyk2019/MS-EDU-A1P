@@ -1,6 +1,6 @@
 # 微软A1P批量创建用户脚本
 
-**原作者lzdszdl的脚本**
+**原作者为hostloc论坛的lzdszdl**
 
 1. 管理员身份运行powershell
 
